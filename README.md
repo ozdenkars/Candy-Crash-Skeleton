@@ -1,2 +1,2 @@
 # Candy-Crash-Skeleton
-It's one of my assignment that I want to share.
+It's one of my assignments that I want to share.
